@@ -1,8 +1,5 @@
-plotly
-streamlit 
 
- pickle
+streamlit 
 import 
 pandas 
- plotly.express 
  streamlit
