@@ -676,7 +676,6 @@ with st.sidebar:
     }
     st.download_button(
         label="⬇️ Export Models (.pkl)",
-        data=pickle.dumps(model_bundle),
         file_name="churn_models.pkl",
         mime="application/octet-stream",
     )
