@@ -1,0 +1,8 @@
+plotly
+streamlit 
+io
+ pickle
+import 
+pandas 
+ plotly.express 
+ streamlit
