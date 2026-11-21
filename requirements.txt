@@ -1,5 +1,6 @@
-
-streamlit 
-import 
-pandas 
- streamlit
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
