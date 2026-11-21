@@ -15,7 +15,7 @@ st.title("Customer Churn Analysis & Prediction")
 uploaded_file = st.file_uploader("Upload customer dataset (CSV)", type=["csv"])
 
 if uploaded_file is not None:
-    df = pd.read_csv(111.csv.csv)
+    df = pd.read_csv("111.csv.csv")
     st.subheader("Dataset Overview")
     st.dataframe(df.head())
 
